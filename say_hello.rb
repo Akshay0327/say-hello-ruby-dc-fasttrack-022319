@@ -1,3 +1,5 @@
 # Build your say_hello method here
-say_hello("Akshay")
+say_hello(name)
+puts "Hello " + name +" !"
+end
   
